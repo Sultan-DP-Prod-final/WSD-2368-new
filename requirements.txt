@@ -1,4 +1,4 @@
-Werkzeug==0.15.2
+Werkzeug==0.16.1
 ansible==2.9
 manila==7.2.0
 lxml==4.6.0
